@@ -53,6 +53,7 @@ Applying algorithms like K-Means to identify groups with similar characteristics
 ## Evaluation
 
 Accuracy: Evaluating the accuracy of the severity prediction model.
+
 Cluster Cohesion: Measuring the cohesion within identified clusters.
 
 ## Conclusion
